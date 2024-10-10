@@ -1,6 +1,6 @@
-# Gzip-Deep-Learning-Compression-Comparison
-
 > Note: The notebooks in this repository are working artifacts during our research, and the final deliverable is the presentation and research summary paper.
+
+# Gzip-Deep-Learning-Compression-Comparison
 
 A Comparative Study of Compression-Based Text Classification Against Deep Neural Network
 
